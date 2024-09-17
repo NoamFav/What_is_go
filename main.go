@@ -19,6 +19,8 @@ func main() {
 	// right-click your code in the editor and select the <b>Debug</b> option. 
 	fmt.Println("i =", 100/i)
   }
+
+  foo()
 }
 
 func foo() {
